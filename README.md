@@ -1,6 +1,6 @@
-# 🎬 OpenList Marker (v0.1)
+# 🎬 OpenListMarker
 
-**OpenList Marker** 是一款专为 OpenList 网页端及兼容播放器打造的**沉浸式视频笔记与知识库管理工具**。
+**OpenListMarker** 是一款专为 OpenList 网页端及兼容播放器打造的**沉浸式视频笔记与知识库管理工具**。
 
 它能让你的网页播放器瞬间拥有媲美 Bilibili / YouTube 的“高能进度条打点”功能，并辅以强大的多工作区、无限层级标签树、智能弹窗交互、全键盘快捷键，以及跨端的 WebDAV / 思源笔记同步支持，彻底重塑你的视频学习与素材打标工作流。
 
