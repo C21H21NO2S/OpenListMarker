@@ -8,6 +8,10 @@
 
 * **最新版本**: [获取最新代码](https://github.com/C21H21NO2S/OpenListMarker/releases)
 
+## ⚙ 安装使用
+
+粘贴到 设置 - 全局 - 自定义内容，保存即可
+
 ---
 
 ## ✨ 核心特性一览
